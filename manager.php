@@ -12,7 +12,7 @@ $CONFIG = '{"lang":"en","error_reporting":false,"show_hidden":false,"hide_Cols":
 define('VERSION', '2.4.3');
 
 //Application Title
-define('APP_TITLE','Gin Manager');
+define('APP_TITLE','GZT Manager');
 
 // --- EDIT BELOW CONFIGURATION CAREFULLY ---
 
